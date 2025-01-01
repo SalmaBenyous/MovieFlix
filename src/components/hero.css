@@ -1,0 +1,13 @@
+div.section-movies
+{
+    /* width: 90%;
+    margin-inline: auto; */
+    margin-top: 2rem;
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 5rem;
+
+}

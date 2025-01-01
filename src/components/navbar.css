@@ -1,0 +1,34 @@
+header nav {
+ display: flex;
+ align-items: center;
+ /* justify-content: space-between; */
+ gap: 10rem;
+ width: 90%;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+header
+{
+   background-color:#183446;
+   color: #fff;
+   padding: 10px;
+   display: flex;
+   align-items: center;
+}
+
+header nav input
+{
+    width: 60%;
+    padding-block: 0.3rem;
+    outline: none;
+    border: 1px solid #fff;
+    border-radius: 15px;
+    padding-inline: 15px;
+}
+header nav p
+{
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
